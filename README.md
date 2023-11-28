@@ -36,3 +36,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 https://chrisahn10.github.io/5-Day-Weather-Dashboard/
 
 ## Demo 
+![demo](/Assets/Untitled_%20Nov%2028,%202023%204_15%20PM.gif)
